@@ -1,0 +1,1 @@
+main HTML doc is set up to evaluate and explain the purpose of each function.
